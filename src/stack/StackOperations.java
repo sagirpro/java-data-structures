@@ -16,7 +16,7 @@ public class StackOperations {
 		st.push(3);
 		st.push(4);
 		st.push(5);
-		st.push(6);
+		st.push(6);																																																																								
 		
 		//check last element of the stack without removing it
 		 System.out.println("Last Element in the stack: " + st.peek());
