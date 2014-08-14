@@ -9,7 +9,7 @@ import java.util.Stack;
 public class Graph 
 {
 	public Node rootNode;
-	public ArrayList nodes=new ArrayList();
+	public ArrayList<Node> nodes=new ArrayList<Node>();
 	public int[][] adjMatrix;//Edges will be represented as adjacency Matrix
 	int size;
 	public void setRootNode(Node n)
@@ -63,7 +63,7 @@ public class Graph
 	{
 		
 		//BFS uses Queue data structure
-		Queue q=new LinkedList();
+		Queue<Node> q=new LinkedList<Node>();
 		q.add(this.rootNode);
 		printNode(this.rootNode);
 		rootNode.visited=true;
@@ -86,7 +86,7 @@ public class Graph
 	public void dfs()
 	{
 		//DFS uses Stack data structure
-		Stack s=new Stack();
+		Stack<Node> s=new Stack<Node>();
 		s.push(this.rootNode);
 		rootNode.visited=true;
 		printNode(rootNode);
