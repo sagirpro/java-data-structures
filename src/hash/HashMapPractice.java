@@ -1,6 +1,21 @@
+// =============================================================================
+//	Apache License
+//	Version 2.0, January 2004
+//	http://www.apache.org/licenses/
+// =============================================================================
+
 package hash;
 
 import java.util.HashMap;
+
+/**
+ * Using HashMap package we just fetched simple data manually stored
+ * in the map. HashMap allows different types of data to create a
+ * new.
+ * 
+ * @author Sagir <sagir.pro@gmail.com>
+ * @since 2014-08-09
+ */
 
 public class HashMapPractice {
 

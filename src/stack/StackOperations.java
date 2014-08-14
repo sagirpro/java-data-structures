@@ -1,8 +1,21 @@
+// =============================================================================
+//	Apache License
+//	Version 2.0, January 2004
+//	http://www.apache.org/licenses/
+// =============================================================================
+
 package stack;
 
 import java.util.Stack;
 
-
+/**
+ * Using util.Stack package we just fetched simple data manually stored
+ * in the stack. We can do Stack operations like, Push, Pop, peek, remove
+ * etc.
+ * 
+ * @author Sagir <sagir.pro@gmail.com>
+ * @since 2014-08-09
+ */
 public class StackOperations {
 	public static void main(String args[]) {
 		
