@@ -4,7 +4,7 @@
 //	http://www.apache.org/licenses/
 // =============================================================================
 
-package Quick;
+package quick;
 
 import java.util.ArrayList;
 import java.util.List;

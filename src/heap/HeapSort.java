@@ -4,7 +4,7 @@
 //	http://www.apache.org/licenses/
 // =============================================================================
 
-package Heap;
+package heap;
 
 /**
  * The HeapSort program simply take a series of input and sort
