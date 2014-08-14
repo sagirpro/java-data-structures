@@ -4,7 +4,7 @@
 //	http://www.apache.org/licenses/
 // =============================================================================
 
-package matrix;
+package adjacencymatrix;
 
 import java.util.ArrayList;
 import java.util.Scanner;
