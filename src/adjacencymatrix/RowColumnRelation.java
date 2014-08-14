@@ -9,6 +9,14 @@ package adjacencymatrix;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/**
+ * This will take Adjacency matrix as input and then it will
+ * fetch all the connected link from row to column according
+ * to the given row number
+ * 
+ * @author Sagir <sagir.pro@gmail.com>
+ * @since 2014-08-09
+ */
 
 public class RowColumnRelation {
 

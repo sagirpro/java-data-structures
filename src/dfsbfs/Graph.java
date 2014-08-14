@@ -4,7 +4,7 @@
 //	http://www.apache.org/licenses/
 // =============================================================================
 
-package dfs;
+package dfsbfs;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
@@ -133,9 +133,5 @@ public class Graph
 	{
 		System.out.print(n.label+" ");
 	}
-
-	
-	
-	
 
 }

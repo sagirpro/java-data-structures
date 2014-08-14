@@ -1,10 +1,23 @@
-package dfs;
+// =============================================================================
+//	Apache License
+//	Version 2.0, January 2004
+//	http://www.apache.org/licenses/
+// =============================================================================
 
-public class Main {
+package dfsbfs;
 
-	/**
-	 * @param args
-	 */
+/**
+ * In the dfsbfs package this Controller class will handle all the input
+ * output and specially the calling to other classes. It will 
+ * contain the main method in it.
+ * 
+ * @author Sagir <sagir.pro@gmail.com>
+ * @since 2014-08-09
+ */
+
+public class Controller {
+
+
 	public static void main(String[] args) 
 	{
 		
