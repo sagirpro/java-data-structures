@@ -1,8 +1,25 @@
+// =============================================================================
+//	Apache License
+//	Version 2.0, January 2004
+//	http://www.apache.org/licenses/
+// =============================================================================
+
 package priorityqueue;
 
-//Test.java
 import java.util.Comparator;
 import java.util.PriorityQueue;
+
+/**
+ * This program will take series of input strings and send them
+ * to the priority queue function and there it will be sorted
+ * as per their string length,
+ * We can take any parameter as priority there.
+ * Operator will manage the call for the priority Queue.
+ * 
+ * @author Sagir <sagir.pro@gmail.com>
+ * @since 2014-08-15
+ */
+
 
 public class Operator
 {
