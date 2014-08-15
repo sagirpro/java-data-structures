@@ -1,7 +1,23 @@
+// =============================================================================
+//	Apache License
+//	Version 2.0, January 2004
+//	http://www.apache.org/licenses/
+// =============================================================================
+
 package priorityqueue;
 
-//StringLengthComparator.java
 import java.util.Comparator;
+
+/**
+ * This program will take series of input strings and send them
+ * to the priority queue function and there it will be sorted
+ * as per their string length,
+ * We can take any parameter as priority there.
+ * This class will take care of the comparison into the priority
+ * 
+ * @author Sagir <sagir.pro@gmail.com>
+ * @since 2014-08-15
+ */
 
 public class StringLengthComparator implements Comparator<String>
 {
