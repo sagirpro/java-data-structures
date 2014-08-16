@@ -15,3 +15,4 @@ Sample java programming practice on Standard data structures !
 9. Red Black tree
 10. BTree
 11. DeQueue
+12. Splay
