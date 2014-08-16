@@ -44,6 +44,7 @@ public class TreeMapRedBlack {
 		System.out.println("-------");
 
 		System.out.println("Cloning tree map");
+		@SuppressWarnings("unchecked")
 		TreeMap<String, String> treemapclone = (TreeMap<String, String>) treemap
 				.clone();
 
